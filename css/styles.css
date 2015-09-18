@@ -1,0 +1,15 @@
+.btn-positive {
+	margin-top: -2px;
+}
+
+form.table-view-cell {
+	padding-bottom: 0px;
+}
+
+.ng-invalid-minlength input{
+	border-color: #f1c40f;
+}
+
+.ng-valid input {
+	border-color: #5CB85C;
+}
